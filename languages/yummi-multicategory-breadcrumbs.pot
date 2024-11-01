@@ -1,0 +1,386 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Yummi Breadcrumbs (SubCategories Support)\n"
+"POT-Creation-Date: 2016-05-04 10:18+0300\n"
+"PO-Revision-Date: 2016-04-06 15:33+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: yummi-multicategory-breadcrumbs.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/additional.php:23 includes/additional.php:30
+msgid "Gratitude"
+msgstr ""
+
+#: includes/admin.php:49 includes/admin.php:50 includes/admin.php:70
+msgid "Yummi Breadcrumbs"
+msgstr ""
+
+#: includes/admin.php:70 includes/admin.php:147
+#: yummi-multicategory-breadcrumbs.php:52
+msgid "Settings"
+msgstr ""
+
+#: includes/admin.php:73
+msgid "Support project"
+msgstr ""
+
+#: includes/admin.php:73
+msgid "Rate"
+msgstr ""
+
+#: includes/admin.php:106
+msgid "How breadcrumbs look"
+msgstr ""
+
+#: includes/admin.php:106
+msgid "HTML Characters"
+msgstr ""
+
+#: includes/admin.php:107
+msgid "Home link Text"
+msgstr ""
+
+#: includes/admin.php:107
+msgid "This text replace Home link text"
+msgstr ""
+
+#: includes/admin.php:110 includes/admin.php:142
+msgid "Recipes"
+msgstr ""
+
+#: includes/admin.php:111
+msgid "Main Delimiter"
+msgstr ""
+
+#: includes/admin.php:115 includes/admin.php:142
+msgid "Snacks"
+msgstr ""
+
+#: includes/admin.php:116
+msgid "Delimiter Categories"
+msgstr ""
+
+#: includes/admin.php:120 includes/admin.php:142
+msgid "Vegetarian"
+msgstr ""
+
+#: includes/admin.php:122 includes/admin.php:128 includes/admin.php:142
+msgid "Vegan"
+msgstr ""
+
+#: includes/admin.php:123 includes/admin.php:132 includes/admin.php:142
+msgid "Raw foodists"
+msgstr ""
+
+#: includes/admin.php:125
+msgid "Delimiters for Categories what have SubCategorie"
+msgstr ""
+
+#: includes/admin.php:137 includes/admin.php:142
+msgid "Recipe title"
+msgstr ""
+
+#: includes/admin.php:142 includes/admin.php:286 includes/admin.php:289
+#: includes/admin.php:401 includes/admin.php:427
+msgid "Default"
+msgstr ""
+
+#: includes/admin.php:150 includes/admin.php:462
+msgid "Categories"
+msgstr ""
+
+#: includes/admin.php:150 includes/admin.php:153 includes/admin.php:462
+#: includes/admin.php:481
+msgid "exclude"
+msgstr ""
+
+#: includes/admin.php:153 includes/admin.php:481
+msgid "Custom Post Types"
+msgstr ""
+
+#: includes/admin.php:155
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin.php:164
+msgid "Installation"
+msgstr ""
+
+#: includes/admin.php:170
+msgid "Auto"
+msgstr ""
+
+#: includes/admin.php:173
+msgid "Manual"
+msgstr ""
+
+#: includes/admin.php:179 yummi-multicategory-breadcrumbs.php:51
+msgid "Donate"
+msgstr ""
+
+#: includes/admin.php:181
+msgid "PayPal"
+msgstr ""
+
+#: includes/admin.php:183
+msgid "PayPal - The safer, easier way to pay online!"
+msgstr ""
+
+#: includes/admin.php:188
+msgid "WebMoney"
+msgstr ""
+
+#: includes/admin.php:204
+msgid "Yandex.Money"
+msgstr ""
+
+#: includes/admin.php:209 includes/admin.php:210
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin.php:216
+msgid "Manual installation code"
+msgstr ""
+
+#: includes/admin.php:217 includes/admin.php:219
+msgid "You need add this code to Template files, copy it and go to"
+msgstr ""
+
+#: includes/admin.php:217 includes/admin.php:219 includes/admin.php:220
+msgid "Appearance"
+msgstr ""
+
+#: includes/admin.php:217 includes/admin.php:219 includes/admin.php:220
+msgid "Editor"
+msgstr ""
+
+#: includes/admin.php:218
+msgid "and to AMP Tamlate files"
+msgstr ""
+
+#: includes/admin.php:218
+msgid "What Is AMP?"
+msgstr ""
+
+#: includes/admin.php:220
+msgid "Put this code to your template files"
+msgstr ""
+
+#: includes/admin.php:226
+msgid "Breadcrumbs view"
+msgstr ""
+
+#: includes/admin.php:241 includes/admin.php:253
+msgid "Show SubCategories"
+msgstr ""
+
+#: includes/admin.php:241
+msgid "Inline"
+msgstr ""
+
+#: includes/admin.php:241
+msgid "Sub Inline"
+msgstr ""
+
+#: includes/admin.php:253
+msgid "as Dropdown List"
+msgstr ""
+
+#: includes/admin.php:253
+msgid "Sub Dropdown"
+msgstr ""
+
+#: includes/admin.php:265 includes/admin.php:277
+msgid "Show only"
+msgstr ""
+
+#: includes/admin.php:265
+msgid "Main"
+msgstr ""
+
+#: includes/admin.php:277
+msgid "First"
+msgstr ""
+
+#: includes/admin.php:285
+msgid "Dropdown background color"
+msgstr ""
+
+#: includes/admin.php:288
+msgid "Dropdown shadow control"
+msgstr ""
+
+#: includes/admin.php:299
+msgid "Name of the current"
+msgstr ""
+
+#: includes/admin.php:300
+msgid "Current Article / Page / etc."
+msgstr ""
+
+#: includes/admin.php:306 includes/admin.php:324 includes/admin.php:341
+#: includes/admin.php:358 includes/admin.php:372
+msgid "SHOW"
+msgstr ""
+
+#: includes/admin.php:309 includes/admin.php:327 includes/admin.php:344
+#: includes/admin.php:361 includes/admin.php:375 includes/admin.php:448
+msgid "HIDE"
+msgstr ""
+
+#: includes/admin.php:317
+msgid "On the Home page"
+msgstr ""
+
+#: includes/admin.php:318
+msgid "Breadcrumbs on the main page"
+msgstr ""
+
+#: includes/admin.php:335
+msgid "link"
+msgstr ""
+
+#: includes/admin.php:352
+msgid "Tooltips"
+msgstr ""
+
+#: includes/admin.php:368
+msgid "\"title=\" for links"
+msgstr ""
+
+#: includes/admin.php:383
+msgid "Custom font"
+msgstr ""
+
+#: includes/admin.php:389 includes/admin.php:415
+msgid "ON"
+msgstr ""
+
+#: includes/admin.php:392 includes/admin.php:418
+msgid "OFF"
+msgstr ""
+
+#: includes/admin.php:400
+msgid "Input font name"
+msgstr ""
+
+#: includes/admin.php:401
+msgid "Fonts separate by commas"
+msgstr ""
+
+#: includes/admin.php:409
+msgid "Custom Parent Category Style"
+msgstr ""
+
+#: includes/admin.php:426
+msgid "Input style code"
+msgstr ""
+
+#: includes/admin.php:435
+msgid "Your Gratitude"
+msgstr ""
+
+#: includes/admin.php:436
+msgid "To display a link to the developer`s site"
+msgstr ""
+
+#: includes/admin.php:442
+msgid "Content"
+msgstr ""
+
+#: includes/admin.php:445
+msgid "Footer"
+msgstr ""
+
+#: includes/admin.php:462 includes/admin.php:481
+msgid "Please select"
+msgstr ""
+
+#: includes/admin.php:462 includes/admin.php:481
+msgid "what you want"
+msgstr ""
+
+#: includes/br.php:13 includes/br_amp.php:14
+msgid "Archive"
+msgstr ""
+
+#: includes/br.php:14 includes/br_amp.php:15
+msgid "Results for"
+msgstr ""
+
+#: includes/br.php:15 includes/br_amp.php:16
+msgid "Entries tagged with"
+msgstr ""
+
+#: includes/br.php:16 includes/br_amp.php:17
+msgid "Articles by author"
+msgstr ""
+
+#: includes/br.php:17 includes/br_amp.php:18
+msgid "Error 404"
+msgstr ""
+
+#: includes/br.php:72 includes/br_amp.php:73
+msgid "Go"
+msgstr ""
+
+#: includes/br.php:86 includes/br.php:89 includes/br.php:102
+#: includes/br.php:105 includes/br.php:110 includes/br.php:137
+#: includes/br.php:140 includes/br.php:432 includes/br.php:435
+#: includes/br_amp.php:87 includes/br_amp.php:90 includes/br_amp.php:103
+#: includes/br_amp.php:106 includes/br_amp.php:111 includes/br_amp.php:138
+#: includes/br_amp.php:141 includes/br_amp.php:435 includes/br_amp.php:441
+msgid "Articles in category"
+msgstr ""
+
+#: includes/br.php:277 includes/br.php:280 includes/br.php:284
+#: includes/br.php:286 includes/br.php:296 includes/br.php:299
+#: includes/br.php:302 includes/br.php:310 includes/br.php:312
+#: includes/br_amp.php:278 includes/br_amp.php:281 includes/br_amp.php:285
+#: includes/br_amp.php:287 includes/br_amp.php:297 includes/br_amp.php:300
+#: includes/br_amp.php:303 includes/br_amp.php:311 includes/br_amp.php:313
+msgid "Articles for"
+msgstr ""
+
+#: includes/br.php:383 includes/br_amp.php:384
+msgid "Page"
+msgstr ""
+
+#: yummi-multicategory-breadcrumbs.php:50
+msgid "Demo"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Yummi Breadcrumbs (SubCategories Support)"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/yummi-multicategory-breadcrumbs/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Yummi Breadcrumbs is Super light weight & easy plugin with support "
+"SubCategories showing, SEO friendly and Auto Installation."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Alex Egorov"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://yummi.club"
+msgstr ""

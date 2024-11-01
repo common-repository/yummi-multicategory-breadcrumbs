@@ -1,0 +1,400 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yummi Breadcrumbs (SubCategories Support)\n"
+"POT-Creation-Date: 2016-05-04 10:18+0300\n"
+"PO-Revision-Date: 2016-05-04 10:19+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: yummi-multicategory-breadcrumbs.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/additional.php:23 includes/additional.php:30
+msgid "Gratitude"
+msgstr "Благодарность"
+
+#: includes/admin.php:49 includes/admin.php:50 includes/admin.php:70
+msgid "Yummi Breadcrumbs"
+msgstr "Yummi Хлебные Крошки"
+
+#: includes/admin.php:70 includes/admin.php:147
+#: yummi-multicategory-breadcrumbs.php:52
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/admin.php:73
+msgid "Support project"
+msgstr "Поддержать проект"
+
+#: includes/admin.php:73
+msgid "Rate"
+msgstr "Голосовать"
+
+#: includes/admin.php:106
+msgid "How breadcrumbs look"
+msgstr "Как выглядят крошки"
+
+#: includes/admin.php:106
+msgid "HTML Characters"
+msgstr "HTML Символы"
+
+#: includes/admin.php:107
+msgid "Home link Text"
+msgstr "Текст ссылки на Главную"
+
+#: includes/admin.php:107
+msgid "This text replace Home link text"
+msgstr "Подменяет ссылку на Главную"
+
+#: includes/admin.php:110 includes/admin.php:142
+msgid "Recipes"
+msgstr "Рецепты"
+
+#: includes/admin.php:111
+msgid "Main Delimiter"
+msgstr "Разделитель заглавных категорий"
+
+#: includes/admin.php:115 includes/admin.php:142
+msgid "Snacks"
+msgstr "Закуски"
+
+#: includes/admin.php:116
+msgid "Delimiter Categories"
+msgstr "Разделитель категорий"
+
+#: includes/admin.php:120 includes/admin.php:142
+msgid "Vegetarian"
+msgstr "Вегетарианство"
+
+#: includes/admin.php:122 includes/admin.php:128 includes/admin.php:142
+msgid "Vegan"
+msgstr "Веган"
+
+#: includes/admin.php:123 includes/admin.php:132 includes/admin.php:142
+msgid "Raw foodists"
+msgstr "Сыроед"
+
+#: includes/admin.php:125
+msgid "Delimiters for Categories what have SubCategorie"
+msgstr "Разделитель для Категорий у которых есть ПодКатегории"
+
+#: includes/admin.php:137 includes/admin.php:142
+msgid "Recipe title"
+msgstr "Заголовок рецепта"
+
+#: includes/admin.php:142 includes/admin.php:286 includes/admin.php:289
+#: includes/admin.php:401 includes/admin.php:427
+msgid "Default"
+msgstr "Изначально"
+
+#: includes/admin.php:150 includes/admin.php:462
+msgid "Categories"
+msgstr "Категории"
+
+#: includes/admin.php:150 includes/admin.php:153 includes/admin.php:462
+#: includes/admin.php:481
+msgid "exclude"
+msgstr "исключить"
+
+#: includes/admin.php:153 includes/admin.php:481
+msgid "Custom Post Types"
+msgstr "Таксономии"
+
+#: includes/admin.php:155
+msgid "Save Changes"
+msgstr "Сохранить Изменения"
+
+#: includes/admin.php:164
+msgid "Installation"
+msgstr "Тип установки"
+
+#: includes/admin.php:170
+msgid "Auto"
+msgstr "Авто."
+
+#: includes/admin.php:173
+msgid "Manual"
+msgstr "Ручная"
+
+#: includes/admin.php:179 yummi-multicategory-breadcrumbs.php:51
+msgid "Donate"
+msgstr "Финансовая поддержка"
+
+#: includes/admin.php:181
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/admin.php:183
+msgid "PayPal - The safer, easier way to pay online!"
+msgstr "PayPal - Самый безопасный и простой путь платить онлайн!"
+
+#: includes/admin.php:188
+msgid "WebMoney"
+msgstr "WebMoney"
+
+#: includes/admin.php:204
+msgid "Yandex.Money"
+msgstr "Яндекс.Деньги"
+
+#: includes/admin.php:209 includes/admin.php:210
+msgid "Custom CSS"
+msgstr "Пользовательские CSS"
+
+#: includes/admin.php:216
+msgid "Manual installation code"
+msgstr "Код для Ручной установки"
+
+#: includes/admin.php:217 includes/admin.php:219
+msgid "You need add this code to Template files, copy it and go to"
+msgstr ""
+"Вам нужно добавить этот код в станицы вашего шаблона, скопируйте его и "
+"перейдите в"
+
+#: includes/admin.php:217 includes/admin.php:219 includes/admin.php:220
+msgid "Appearance"
+msgstr "Внешний вид"
+
+#: includes/admin.php:217 includes/admin.php:219 includes/admin.php:220
+msgid "Editor"
+msgstr "Редактор"
+
+#: includes/admin.php:218
+msgid "and to AMP Tamlate files"
+msgstr "и на  страницы вашего AMP шаблона"
+
+#: includes/admin.php:218
+msgid "What Is AMP?"
+msgstr "Что такое AMP?"
+
+#: includes/admin.php:220
+msgid "Put this code to your template files"
+msgstr "Добавьте этот код в станицы вашего шаблона"
+
+#: includes/admin.php:226
+msgid "Breadcrumbs view"
+msgstr "Вид ХлебныхКрошек"
+
+#: includes/admin.php:241 includes/admin.php:253
+msgid "Show SubCategories"
+msgstr "Показать Подкатегории"
+
+#: includes/admin.php:241
+msgid "Inline"
+msgstr "В линию"
+
+#: includes/admin.php:241
+msgid "Sub Inline"
+msgstr "В линию"
+
+#: includes/admin.php:253
+msgid "as Dropdown List"
+msgstr "как Выпадащий список"
+
+#: includes/admin.php:253
+msgid "Sub Dropdown"
+msgstr "Выпадащие"
+
+#: includes/admin.php:265 includes/admin.php:277
+msgid "Show only"
+msgstr "Показать только"
+
+#: includes/admin.php:265
+msgid "Main"
+msgstr "Главные"
+
+#: includes/admin.php:277
+msgid "First"
+msgstr "Первая"
+
+#: includes/admin.php:285
+msgid "Dropdown background color"
+msgstr "Цвет фона"
+
+#: includes/admin.php:288
+msgid "Dropdown shadow control"
+msgstr "Настройка тени"
+
+#: includes/admin.php:299
+msgid "Name of the current"
+msgstr "Имя текущей"
+
+#: includes/admin.php:300
+msgid "Current Article / Page / etc."
+msgstr "Текущая Запись / Страница / тд."
+
+#: includes/admin.php:306 includes/admin.php:324 includes/admin.php:341
+#: includes/admin.php:358 includes/admin.php:372
+msgid "SHOW"
+msgstr "Показать"
+
+#: includes/admin.php:309 includes/admin.php:327 includes/admin.php:344
+#: includes/admin.php:361 includes/admin.php:375 includes/admin.php:448
+msgid "HIDE"
+msgstr "Спрятать"
+
+#: includes/admin.php:317
+msgid "On the Home page"
+msgstr "На Главной странице"
+
+#: includes/admin.php:318
+msgid "Breadcrumbs on the main page"
+msgstr "Хлебные крошки на Главной"
+
+#: includes/admin.php:335
+msgid "link"
+msgstr "ссылка"
+
+#: includes/admin.php:352
+msgid "Tooltips"
+msgstr "Подсказки всплывающие"
+
+#: includes/admin.php:368
+msgid "\"title=\" for links"
+msgstr "\"title=\" для ссылок"
+
+#: includes/admin.php:383
+msgid "Custom font"
+msgstr "Текущий шрифт"
+
+#: includes/admin.php:389 includes/admin.php:415
+msgid "ON"
+msgstr "Вкл."
+
+#: includes/admin.php:392 includes/admin.php:418
+msgid "OFF"
+msgstr "Выкл."
+
+#: includes/admin.php:400
+msgid "Input font name"
+msgstr "Названия шрифта"
+
+#: includes/admin.php:401
+msgid "Fonts separate by commas"
+msgstr "Шрифты разделить запятыми"
+
+#: includes/admin.php:409
+msgid "Custom Parent Category Style"
+msgstr "Изменить вид Заглавных категорий"
+
+#: includes/admin.php:426
+msgid "Input style code"
+msgstr "Укажите код стиля"
+
+#: includes/admin.php:435
+msgid "Your Gratitude"
+msgstr "Ваша благодарность"
+
+#: includes/admin.php:436
+msgid "To display a link to the developer`s site"
+msgstr "Ссылка на сайт разработчика"
+
+#: includes/admin.php:442
+msgid "Content"
+msgstr "В записях"
+
+#: includes/admin.php:445
+msgid "Footer"
+msgstr "Подвал"
+
+#: includes/admin.php:462 includes/admin.php:481
+msgid "Please select"
+msgstr "Пожалуйста, выберите"
+
+#: includes/admin.php:462 includes/admin.php:481
+msgid "what you want"
+msgstr "которые вы желаете"
+
+#: includes/br.php:13 includes/br_amp.php:14
+msgid "Archive"
+msgstr "Архив рубрики"
+
+#: includes/br.php:14 includes/br_amp.php:15
+msgid "Results for"
+msgstr "Результаты поиска по запросу"
+
+#: includes/br.php:15 includes/br_amp.php:16
+msgid "Entries tagged with"
+msgstr "Записи с тегом"
+
+#: includes/br.php:16 includes/br_amp.php:17
+msgid "Articles by author"
+msgstr "Статьи автора"
+
+#: includes/br.php:17 includes/br_amp.php:18
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: includes/br.php:72 includes/br_amp.php:73
+msgid "Go"
+msgstr "Перейти к"
+
+#: includes/br.php:86 includes/br.php:89 includes/br.php:102
+#: includes/br.php:105 includes/br.php:110 includes/br.php:137
+#: includes/br.php:140 includes/br.php:432 includes/br.php:435
+#: includes/br_amp.php:87 includes/br_amp.php:90 includes/br_amp.php:103
+#: includes/br_amp.php:106 includes/br_amp.php:111 includes/br_amp.php:138
+#: includes/br_amp.php:141 includes/br_amp.php:435 includes/br_amp.php:441
+msgid "Articles in category"
+msgstr "Статьи в категории"
+
+#: includes/br.php:277 includes/br.php:280 includes/br.php:284
+#: includes/br.php:286 includes/br.php:296 includes/br.php:299
+#: includes/br.php:302 includes/br.php:310 includes/br.php:312
+#: includes/br_amp.php:278 includes/br_amp.php:281 includes/br_amp.php:285
+#: includes/br_amp.php:287 includes/br_amp.php:297 includes/br_amp.php:300
+#: includes/br_amp.php:303 includes/br_amp.php:311 includes/br_amp.php:313
+msgid "Articles for"
+msgstr "Статьи за"
+
+#: includes/br.php:383 includes/br_amp.php:384
+msgid "Page"
+msgstr "Страница"
+
+#: yummi-multicategory-breadcrumbs.php:50
+msgid "Demo"
+msgstr "Демо"
+
+#. Plugin Name of the plugin/theme
+msgid "Yummi Breadcrumbs (SubCategories Support)"
+msgstr "Yummi Хлебные Крошки (C поддержкой ПодКатегорий)"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/yummi-multicategory-breadcrumbs/"
+msgstr "https://wordpress.org/plugins/yummi-multicategory-breadcrumbs/"
+
+#. Description of the plugin/theme
+msgid ""
+"Yummi Breadcrumbs is Super light weight & easy plugin with support "
+"SubCategories showing, SEO friendly and Auto Installation."
+msgstr ""
+"Yummi Хлебные Крошки Супер легкий и простой плагин с поддержкой показа "
+"ПодКатегорий, СЕО оптимизирован и с Авто установкой."
+
+#. Author of the plugin/theme
+msgid "Alex Egorov"
+msgstr "Алексей Егоров"
+
+#. Author URI of the plugin/theme
+msgid "http://yummi.club"
+msgstr "http://yummi.club"
+
+#~ msgid ""
+#~ "Yummi Breadcrumbs is Super light weight & easy plugin with support "
+#~ "SubCategories showing, SEO friendly and Auto Installation. <strong>Demo:</"
+#~ "strong> <a href=\"http://yummi.club\"  target=\"_blank\">yummi.club</a>"
+#~ msgstr ""
+#~ "Yummi ХлебныеКрошки Супер легкий и простой плагин с поддержкой показа "
+#~ "ПодКатегорий, СЕО оптимизирован и с Авто установкой. <strong>Демо:</"
+#~ "strong> <a href=\"http://yummi.club\"  target=\"_blank\">yummi.club</a>"
